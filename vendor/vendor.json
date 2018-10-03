@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "G6QbVlFE1mPX9tA/l5VZNuOAWTg=",
+			"path": "github.com/akamensky/argparse",
+			"revision": "0d55ac017eb9ac477a0bf459d8018bb4eb6f3e1d",
+			"revisionTime": "2018-08-01T02:44:53Z"
+		}
+	],
+	"rootPath": "github.com/xabarass/sperf"
+}
